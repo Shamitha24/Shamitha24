@@ -5,7 +5,7 @@
 
 - 🎓 Master's in CS @ UT Dallas
 - 💼 Former SDE @ Mastercard
-- 🔧 Backend • Data • GenAI
+- 🔧 Fullstack • Data • GenAI
 
 - 📫 Reach me: **shamitham6@gmail.com**
 <br/><br/>
